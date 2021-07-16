@@ -5,8 +5,19 @@
     left: 0;
     z-index: 1030;
     height: 10vh;
+    width: 100vw;
+    margin: 0px;
+    padding: 0px;
 }
 
 .main {
     margin-top: 10vh;
+}
+
+body {
+    overflow-x: hidden;
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    width: 100vw;
 }
